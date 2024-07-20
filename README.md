@@ -30,7 +30,7 @@ The project on this github
 
 https://github.com/erikdubois/dwm
 
-was renamed to sunset so it does not intervene with other projecs also named dwm.
+was renamed to sunset so it does not intervene with other projects also creating an executable called dwm or a .desktop file called dwm.desktop.
 
 
 
