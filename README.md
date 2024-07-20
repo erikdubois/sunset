@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
   <br />
-   DWM holiday project 2024 July - dwm renamed to sunset
+   DWM holiday project 2024 July<br /> Dwm renamed to sunset
 </h1>
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
