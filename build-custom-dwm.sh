@@ -272,14 +272,14 @@ echo
 cp -v config.def.h ../config.def.h
 cd ..
 
+# change dmw to sunset
+cp -vf Makefile sunset/Makefile
+
 # compare the difference to get a diff
 diff -u config.def.h config.def.custom.h > to-be-changed.diff
 cp -v to-be-changed.diff sunset
 cd sunset
 patch < to-be-changed.diff
-
-# change dmw to sunset
-cp -v Makefile sunset
 
 echo
 tput setaf 2
