@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
   <br />
-   DWM holiday project 2024 July
+   DWM holiday project 2024 July - dwm renamed to sunset
 </h1>
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
@@ -25,6 +25,12 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS6dPVFWs39h_cmRYd4OP7IZ
 
 
 Learn, have fun and enjoy.
+
+The project on this github
+
+https://github.com/erikdubois/dwm
+
+was renamed to sunset so it does not intervene with other projecs also named dwm.
 
 
 
