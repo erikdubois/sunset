@@ -23,7 +23,7 @@ echo
 # Normalize user input to lowercase
 #user_choice=$(echo "$user_choice" | tr '[:upper:]' '[:lower:]')
 
-user_choice="n"
+user_choice="y"
 
 # install packages
 sudo pacman -S --noconfirm --needed alacritty
